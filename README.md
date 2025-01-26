@@ -1,0 +1,3 @@
+![logo_cognira_remove_bg](https://github.com/user-attachments/assets/f4560cb5-55c4-4489-ab7d-5881608305d4)
+Cognira adalah sistem forum diskusi berbasis website yang kami kembangkan, dengan tujuan untuk menjadi ruang bagi para penggunanya dalam berbagi dan mendiskusikan berbagai pengetahuan. Nama "Cognira" berasal dari gabungan dua kata, yaitu "Cognition" yang berarti pengetahuan, dan "Aura" yang berarti ruang, sehingga menggambarkan sebuah platform sebagai "ruang pengetahuan" bagi penggunanya. Sistem ini dirancang untuk memudahkan interaksi, pertukaran ide, dan kolaborasi antar pengguna melalui forum diskusi.
+
