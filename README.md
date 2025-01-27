@@ -72,12 +72,15 @@ http:/localhost/app_cognira
 
 ## Tampilan website
 Berikut contoh tampilan dari wesbsite sistem forum diskusi "Cognira"
-### User
 ![Screenshot 2025-01-23 220129](https://github.com/user-attachments/assets/384cf4e0-12fe-46e7-97b5-4f8710600688)
 
-![Screenshot 2025-01-22 205515](https://github.com/user-attachments/assets/9419f8dd-422e-40e1-bb46-5388a230afe4)
+### User
+![Screenshot 2025-01-27 133337](https://github.com/user-attachments/assets/acbb81e5-be0c-473e-a82e-7e46f0eb2ee3)
 
-![Screenshot 2025-01-22 211524](https://github.com/user-attachments/assets/53380ae3-27f5-403a-b6b9-5511aa79c8d8)
+![Screenshot 2025-01-27 133654](https://github.com/user-attachments/assets/d01578a7-6bb4-4fb9-b091-04948584bc91)
+
+![Screenshot 2025-01-27 133902](https://github.com/user-attachments/assets/474e84ba-28ec-4a1a-b397-9ae3b3589419)
+
 
 ### Admin
 ![Screenshot 2025-01-22 214111](https://github.com/user-attachments/assets/c9755a3a-779b-4c62-9e0e-d7e2af41d2f2)
