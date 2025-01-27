@@ -41,20 +41,19 @@ Sistem ini dibangun dengan menggunakan :
 
 ## 📁 Struktur 
 
-```ssh
+```sh
 app_cognira
-├── actions/         #File-file aksi seperti menghapus, edit, dll
-├── admin/           #File-file  untuk tampilan admin
-├── asset/           #File-file  css,  gambar,  js
-├── auth/            #File-file  tampilan login & proses login&logout
-├── halamanlain/     #File-file  tampilan-tampilan footer  
-├── question/        #File-file  untuk  tampilan & proses pertanyaan
-├── registrasi/		#File-file untuk  tampilan & proses registrasi
-├── template/		   #File-file tampilan navbar, modal component, dll
-├── user/			   #File-file untuk tampilan user
-├── config.php       #File untuk koneksi database
-└── index.php		   #File untuk halaman landing page
-
+├── actions/     #File-file aksi seperti menghapus, edit, dll
+├── admin/       #File-file  untuk tampilan admin
+├── asset/       #File-file  css,  gambar,  js
+├── auth/        #File-file  tampilan login & proses login&logout
+├── halamanlain/ #File-file  tampilan-tampilan footer  
+├── question/    #File-file  untuk  tampilan & proses pertanyaan
+├── registrasi/	 #File-file untuk  tampilan & proses registrasi
+├── template/    #File-file tampilan navbar, modal component, dll
+├── user/        #File-file untuk tampilan user			   
+├── config.php   #File untuk koneksi database  
+└── index.php    #File untuk halaman landing page		 
 ```
 
 
@@ -71,6 +70,20 @@ Akses pada browser dengan url
 http:/localhost/app_cognira
 ```
 
+## Tampilan website
+Berikut contoh tampilan dari wesbsite sistem forum diskusi "Cognira"
+### User
+![Screenshot 2025-01-23 220129](https://github.com/user-attachments/assets/384cf4e0-12fe-46e7-97b5-4f8710600688)
 
+![Screenshot 2025-01-22 205515](https://github.com/user-attachments/assets/9419f8dd-422e-40e1-bb46-5388a230afe4)
+
+![Screenshot 2025-01-22 211524](https://github.com/user-attachments/assets/53380ae3-27f5-403a-b6b9-5511aa79c8d8)
+
+### Admin
+![Screenshot 2025-01-22 214111](https://github.com/user-attachments/assets/c9755a3a-779b-4c62-9e0e-d7e2af41d2f2)
+
+![Screenshot 2025-01-22 215538](https://github.com/user-attachments/assets/44e0439e-a7ce-40b1-89d7-cc465bfb0100)
+
+![Screenshot 2025-01-22 215033](https://github.com/user-attachments/assets/4c96616f-37fb-4b9b-9205-ee93f75257e2)
 
 
